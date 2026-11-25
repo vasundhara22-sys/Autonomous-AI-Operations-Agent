@@ -1,0 +1,9 @@
+Supplier invoice
+
+Invoice number: INV-2026-0412
+Invoice date: 2026-11-03
+Supplier name: Bluepeak Logistics Pvt Ltd
+Purchase order: PO-88714
+Payment terms: Net 30
+Total amount: 48,250.00
+Description: Freight services for October deliveries.

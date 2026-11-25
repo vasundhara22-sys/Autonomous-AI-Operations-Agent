@@ -1,0 +1,8 @@
+Employee onboarding form
+
+Employee name: Rohan Mehta
+Start date: 15 December 2026
+Department: Sales Operations
+Reporting manager: Priya Nair
+Work email:
+Phone: +91 98765 43210

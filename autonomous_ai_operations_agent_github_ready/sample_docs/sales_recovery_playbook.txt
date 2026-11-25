@@ -1,0 +1,13 @@
+Sales Recovery Playbook
+
+Purpose. This playbook describes what regional managers must do when a region's weekly sales fall below the target threshold.
+
+Trigger. A region is in recovery when its weekly achievement is below 80 percent of target. A region below 60 percent is in severe recovery and must be escalated.
+
+Week one actions. The regional manager reviews the pipeline with the sales team and confirms coverage of open deals. The manager identifies the three largest deals at risk and agrees a next step for each within two working days.
+
+Week two actions. The manager runs a conversion review of leads that did not progress past the first call. Any product that is out of stock is escalated to supply planning the same day.
+
+Severe recovery. Regions in severe recovery have a review with the head of sales within 48 hours. The review decides whether reallocating reps from a stronger region is needed.
+
+Reporting. The regional manager sends a recovery update every Friday until the region returns above 80 percent for two consecutive weeks. Updates include pipeline value, deals closed, and blockers.

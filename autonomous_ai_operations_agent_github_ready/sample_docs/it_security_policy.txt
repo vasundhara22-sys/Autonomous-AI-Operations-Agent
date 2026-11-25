@@ -1,0 +1,11 @@
+IT Security and Data Handling Policy
+
+Passwords. Passwords must be at least 12 characters and include upper case, lower case, a number, and a symbol. Passwords must be changed every 180 days and may not reuse the last 10 passwords.
+
+Multi-factor authentication. MFA is required for all email, VPN, and finance systems. Hardware keys are required for administrator accounts.
+
+Customer data. Customer data may be stored only in approved systems. Customer data must not be shared outside approved systems, including personal email and public file sharing services.
+
+Incidents. Suspected data breaches must be reported to the security team within 1 hour of discovery. Do not delete evidence and do not attempt to fix the issue before the security team advises you.
+
+Devices. Company laptops must be encrypted and locked after 5 minutes of inactivity. Lost devices must be reported immediately.

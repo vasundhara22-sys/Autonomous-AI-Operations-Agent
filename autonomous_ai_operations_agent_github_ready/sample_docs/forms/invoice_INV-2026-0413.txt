@@ -1,0 +1,6 @@
+Supplier invoice
+
+Invoice No: INV-2026-0413
+Supplier: Northwind Packaging
+Amount due: 12,900.00
+Payment terms: Net 45
